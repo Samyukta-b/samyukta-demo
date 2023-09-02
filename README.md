@@ -1,4 +1,4 @@
 # samyukta-demo
 This is my first Git Repository.
 <br>
-Author - Samyukta B
+Author - Samyukta B (And others)
